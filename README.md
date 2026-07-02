@@ -1,5 +1,4 @@
-Global Layoffs Analysis (2020–2025)
-
+**Global Layoffs Analysis (2020–2025)**
 Project Overview
 
 The Global Layoffs Analysis (2020–2025) project analyzes technology company layoffs using Python and data visualization techniques. It explores layoff trends across companies, countries, industries, and years to uncover meaningful insights through Exploratory Data Analysis (EDA). The project demonstrates practical data analysis skills by transforming raw data into clear and informative visualizations.
