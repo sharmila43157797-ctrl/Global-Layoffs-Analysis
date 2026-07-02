@@ -1,10 +1,10 @@
-Global Layoffs Analysis (2020–2025)
+**Global Layoffs Analysis (2020–2025)**
 
-Project Overview
+**Project Overview**
 
 The Global Layoffs Analysis (2020–2025) project analyzes technology company layoffs using Python and data visualization techniques. It explores layoff trends across companies, countries, industries, and years to uncover meaningful insights through Exploratory Data Analysis (EDA). The project demonstrates practical data analysis skills by transforming raw data into clear and informative visualizations.
 
-Project Objectives
+**Project Objectives**
 
   Analyze global technology layoff trends from 2020 to 2025.
   Identify the most affected companies, countries, and industries.
@@ -12,7 +12,7 @@ Project Objectives
   Perform Exploratory Data Analysis (EDA) to uncover meaningful insights.
   Demonstrate data analysis and visualization skills using Python.
   
-Technologies Used
+**Technologies Used**
 
   Python
   
@@ -28,11 +28,11 @@ Technologies Used
   
   Google Colab
   
-Global Layoffs Analysis (2020–2025)
+**Global Layoffs Analysis (2020–2025)**
 
 This dataset contains information about global technology company layoffs from 2020 to 2025, including company details, industry, country, layoffs, funding, company stage, and yearly trends. It is used to analyze workforce reduction patterns and generate meaningful business insights through data analysis and visualization.
 
-Data Cleaning Tasks Performed
+**Data Cleaning Tasks Performed**
 
 ✅ Removed duplicate records
 
@@ -46,7 +46,7 @@ Data Cleaning Tasks Performed
 
 ✅ Prepared the dataset for analysis
 
-Dataset
+**Dataset**
 
 File: `tech_layoffs_til_2025.csv`
 
@@ -62,7 +62,7 @@ The dataset contains information about:
   Year
   Latitude & Longitude
 
-Visualizations
+**Visualizations**
 
   Year-wise Layoffs
   Top 10 Companies by Layoffs
