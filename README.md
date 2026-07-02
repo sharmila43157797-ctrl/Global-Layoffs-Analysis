@@ -15,11 +15,17 @@ Project Objectives
 Technologies Used
 
   Python
+  
   Pandas
+  
   NumPy
+  
   Matplotlib
+  
   Seaborn
+  
   Plotly
+  
   Google Colab
   
 Global Layoffs Analysis (2020–2025)
