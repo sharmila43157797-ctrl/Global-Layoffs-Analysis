@@ -2,31 +2,31 @@
 
 **Project Overview**
 
-The Global Layoffs Analysis (2020–2025) project analyzes technology company layoffs using Python and data visualization techniques. It explores layoff trends across companies, countries, industries, and years to uncover meaningful insights through Exploratory Data Analysis (EDA). The project demonstrates practical data analysis skills by transforming raw data into clear and informative visualizations.
+The Global Layoffs Analysis **(2020–2025)** project analyzes technology company layoffs using Python and data visualization techniques. It explores layoff trends across companies, countries, industries, and years to uncover meaningful insights through Exploratory Data Analysis (EDA). The project demonstrates practical data analysis skills by transforming raw data into clear and informative visualizations.
 
 **Project Objectives**
 
-  Analyze global technology layoff trends from 2020 to 2025.
-  Identify the most affected companies, countries, and industries.
-  Visualize layoff patterns using charts and graphs.
-  Perform Exploratory Data Analysis (EDA) to uncover meaningful insights.
-  Demonstrate data analysis and visualization skills using Python.
+    Analyze global technology layoff trends from **2020 to 2025**.
+    Identify the most affected companies, countries, and industries.
+    Visualize layoff patterns using charts and graphs.
+    Perform Exploratory Data Analysis (EDA) to uncover meaningful insights.
+    Demonstrate data analysis and visualization skills using Python.
   
 **Technologies Used**
 
-  Python
+    Python
   
-  Pandas
+    Pandas
   
-  NumPy
+    NumPy
   
-  Matplotlib
+    Matplotlib
   
-  Seaborn
+    Seaborn
   
-  Plotly
+    Plotly
   
-  Google Colab
+    Google Colab
   
 **Global Layoffs Analysis (2020–2025)**
 
@@ -70,7 +70,7 @@ The dataset contains information about:
   Top 10 Industries by Layoffs
   Correlation Heatmap
 
-How to Run
+**How to Run**
 
 1. Clone the repository
 
@@ -84,9 +84,9 @@ pip install -r requirements.txt
 
 Global_Layoffs_Analysis.ipynb
 
-Author
+**Author**
 
-Sharmila P
+**Sharmila P**
 
 Aspiring Data Analyst | Python Enthusiast | AI & Machine Learning Enthusiast
    
