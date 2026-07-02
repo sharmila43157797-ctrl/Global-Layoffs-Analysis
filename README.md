@@ -6,27 +6,27 @@ The Global Layoffs Analysis **(2020–2025)** project analyzes technology compan
 
 **Project Objectives**
 
-    Analyze global technology layoff trends from **2020 to 2025**.
-    Identify the most affected companies, countries, and industries.
-    Visualize layoff patterns using charts and graphs.
-    Perform Exploratory Data Analysis (EDA) to uncover meaningful insights.
-    Demonstrate data analysis and visualization skills using Python.
+ Analyze global technology layoff trends from **2020 to 2025**.
+ Identify the most affected companies, countries, and industries.
+ Visualize layoff patterns using charts and graphs.
+ Perform Exploratory Data Analysis (EDA) to uncover meaningful insights.
+ Demonstrate data analysis and visualization skills using Python.
   
 **Technologies Used**
 
-    Python
+ Python
   
-    Pandas
+ Pandas
   
-    NumPy
+ NumPy
   
-    Matplotlib
+ Matplotlib
   
-    Seaborn
+ Seaborn
   
-    Plotly
+ Plotly
   
-    Google Colab
+ Google Colab
   
 **Global Layoffs Analysis (2020–2025)**
 
